@@ -20,7 +20,7 @@ https://github.com/sandipshukla/platinum/releases/download/v1.0/scenes.zip
 
 unzip the scenes folder to the same location as the renderer. Run using the example command as given below.
 
-platinum.out ./scenes/salle_de_bain_room/render.args
+platinum.out ./scenes/salle_de_bain/render.args
 
 The renderer uses the render.args file to get settings for camera, image output, samples_per_pixel etc.
 
