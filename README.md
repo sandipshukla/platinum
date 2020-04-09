@@ -18,7 +18,7 @@ To test the renderer, first download the scenes folder from the release section.
 
 https://github.com/sandipshukla/platinum/releases/download/v1.0/scenes.zip
 
-unzip the scenes folder to the same loaction as the renderer. Run using the example command as given below.
+unzip the scenes folder to the same location as the renderer. Run using the example command as given below.
 
 platinum.out ./scenes/salle_de_bain_room/render.args
 
