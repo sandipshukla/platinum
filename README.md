@@ -12,7 +12,7 @@ This has been developed on macOS catalina . To compile use the below command.
 
 g++-9 -std=c++17 -o platinum -lstdc++fs -fopenmp platinum.cpp
 
-Execute.
+Testing.
 
 To test the renderer, first download the scenes folder from the release section.
 
