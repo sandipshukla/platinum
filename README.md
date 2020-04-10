@@ -4,7 +4,7 @@ Modern c++ path tracer.
 This is a single file based renderer inspired from smallpt 
 and uses obj scene files from Morgan Mcguire Free Models resoures.
 
-![salle_de_bain_1024spp](https://github.com/sandipshukla/platinum/blob/master/salle_de_bain.png)
+![salle_de_bain_2048spp](https://github.com/sandipshukla/platinum/blob/master/salle_de_bain_2048spp.png)
 
 Compile.
 
