@@ -4,7 +4,7 @@ Modern c++ path traced renderer.
 This renderer is inspired from smallpt 
 and uses obj scene files from Morgan Mcguire Free Models resoures.
 
-![salle_de_bain_2048spp](https://github.com/sandipshukla/platinum/blob/master/render_images/salle_de_bain_2048spp.png)
+![salle_de_bain_8096spp](https://github.com/sandipshukla/platinum/blob/master/render_images/salle_de_bain_2048spp.png)
 ![living_room_1024spp](https://github.com/sandipshukla/platinum/blob/master/render_images/living_room_1024spp.png)
 ![fireplace_room_1024spp](https://github.com/sandipshukla/platinum/blob/master/render_images/fireplace_room_1024spp.png)
 ![cornell_box_original_1024spp](https://github.com/sandipshukla/platinum/blob/master/render_images/cornell_box_original_1024spp.png)
