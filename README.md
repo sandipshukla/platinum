@@ -1,7 +1,7 @@
 # platinum
 Modern c++ path traced renderer.
 
-This renderer is inspired from smallpt 
+This renderer is inspired from smallpt & pbrt
 and uses obj scene files from Morgan Mcguire Free Models resoures.
 
 ![salle_de_bain_8192spp](https://github.com/sandipshukla/platinum/blob/master/render_images/salle_de_bain_8192spp.png)
